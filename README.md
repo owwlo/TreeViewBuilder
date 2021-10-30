@@ -48,5 +48,7 @@ Style: ARROW
 
 ## License
 The MIT License (MIT)
+
 Copyright (c) 2021 owwlo
+
 Licensed under the MIT License. See the top-level file LICENSE.
